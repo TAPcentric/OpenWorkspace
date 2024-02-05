@@ -1,5 +1,5 @@
 ---
-name: " Request a new feature"
+name: Request a new feature
 about: Suggest a new feature request for release candidacy
 title: ''
 labels: ''
