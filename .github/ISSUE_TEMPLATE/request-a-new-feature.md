@@ -1,5 +1,5 @@
 ---
-name: Request a new feature
+name: 2-Request a new feature
 about: Suggest a new feature request
 title: ''
 labels: ''
