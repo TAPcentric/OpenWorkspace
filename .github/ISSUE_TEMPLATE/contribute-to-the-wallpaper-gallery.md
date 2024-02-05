@@ -1,5 +1,5 @@
 ---
-name: 4-Contribute to the Wallpaper Gallery
+name:4-Contribute to the Wallpaper Gallery
 about: Get artistic content published in the OpenWorkspace® Wallpaper Gallery
 title: ''
 labels: ''
