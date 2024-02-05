@@ -1,6 +1,6 @@
 ---
-name: 2-Request a new feature
-about: Suggest a new feature request
+name: 2) Request a new feature
+about: Suggest a new feature request for release candidacy
 title: ''
 labels: ''
 assignees: ''
