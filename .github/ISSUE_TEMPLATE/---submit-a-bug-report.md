@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+***Users that report a bug or issue that gets resolved in a new release are awarded a lifetime subscription to OpenWorkspace® Services***
 
 **To Reproduce**
 Steps to reproduce the behavior:
