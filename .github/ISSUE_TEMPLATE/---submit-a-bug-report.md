@@ -1,13 +1,13 @@
 ---
 name: "   Submit a bug report"
-about: Create a report to help us improve
+about: Report a bug or issue to be resolved in a new build
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-***Users that report a bug or issue that gets resolved in a new release are awarded a lifetime subscription to OpenWorkspace® Services***
+***Users that report an unknown bug or issue that gets resolved in a new release are awarded a lifetime subscription to OpenWorkspace® Services***
 
 **To Reproduce**
 Steps to reproduce the behavior:
