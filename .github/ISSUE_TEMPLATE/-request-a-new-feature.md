@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-***Creators of new feature requests that are not currently on the OpenWorkspace® Roadmap and get released are awarded a lifetime subscription to OpenWorkspace® Services***
-
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
