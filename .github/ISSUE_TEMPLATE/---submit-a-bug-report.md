@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-***Users that report an unknown bug or issue that gets resolved in a new release are awarded a lifetime subscription to OpenWorkspace® Services***
-
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
